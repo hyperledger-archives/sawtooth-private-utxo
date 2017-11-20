@@ -1,0 +1,6 @@
+# Exclude IDE and Editor files
+/.idea/
+*.sublime*
+
+# Everything build artifacts 
+/build/
